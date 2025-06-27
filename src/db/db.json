@@ -21,7 +21,7 @@
             "name":"jacket",
             "description":"this jacket  for man",
             "category":"men",
-            "price":5600,
+            "price":5500,
             "images":"https://m.media-amazon.com/images/I/61Q0xlCF8zL._SX679_.jpg"
         },
         {
@@ -45,7 +45,7 @@
             "name":"saree",
             "description":"this is branded saree for woman",
             "category":"women",
-            "price":5000,
+            "price":5500,
             "images":"https://m.media-amazon.com/images/I/71381Bj5xFL._AC_UL480_FMwebp_QL65_.jpg"
         },
         {
